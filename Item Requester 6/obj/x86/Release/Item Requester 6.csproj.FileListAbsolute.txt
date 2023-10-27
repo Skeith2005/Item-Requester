@@ -1,0 +1,37 @@
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.exe.config
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.exe
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.pdb
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\bin\Release\LineItem.dll
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\bin\Release\LineItem.pdb
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.MFGLoad.resources
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.pwPrompt.resources
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.shortMessage.resources
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.MainWindow.resources
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.Properties.Resources.resources
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.exe
+\\acesbsserver\redirectedfolders\josh.shanabarger\my documents\visual studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.pdb
+\\ACESBSSERVER\RedirectedFolders\Josh.shanabarger\My Documents\Visual Studio 2010\Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.exe.manifest
+\\ACESBSSERVER\RedirectedFolders\Josh.shanabarger\My Documents\Visual Studio 2010\Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.application
+\\ACESBSSERVER\RedirectedFolders\Josh.shanabarger\My Documents\Visual Studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.TrustInfo.xml
+\\ACESBSSERVER\RedirectedFolders\Josh.shanabarger\My Documents\Visual Studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.exe.manifest
+\\ACESBSSERVER\RedirectedFolders\Josh.shanabarger\My Documents\Visual Studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.application
+\\ACESBSSERVER\RedirectedFolders\Josh.Shanabarger\My Documents\Visual Studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.csprojResolveAssemblyReference.cache
+\\ACESBSSERVER\RedirectedFolders\Josh.Shanabarger\My Documents\Visual Studio 2010\Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.csproj.GenerateResource.Cache
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.exe.config
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.exe
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.pdb
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.exe.manifest
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.application
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.exe
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\bin\Release\Item Requester 6.pdb
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\bin\Release\LineItem.dll
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\bin\Release\LineItem.pdb
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.csprojResolveAssemblyReference.cache
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.pwPrompt.resources
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.shortMessage.resources
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.MainWindow.resources
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item_Requester_6.Properties.Resources.resources
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.csproj.GenerateResource.Cache
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.TrustInfo.xml
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.exe.manifest
+C:\Temp\Programming\C# Projects\Item Requester 6\Item Requester 6\obj\x86\Release\Item Requester 6.application
